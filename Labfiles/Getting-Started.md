@@ -1,5 +1,5 @@
 ## Login to Azure 
-**If you're using an organization laptop or machine, please ensure to use the InPrivate window when logging into Azure and GitHub.**
+**Si estás utilizando una laptop o máquina de la organización, asegúrate de usar la ventana de InPrivate al iniciar sesión en Azure y GitHub.**
 
 1. In the desktop search,look for **Microsoft Edge** **(1)**,then click on **Microsoft Edge** **(2)** browser and open an InPrivate window.
 
@@ -18,7 +18,7 @@
 
 ## Login to GitHub
 
-**If you're using an organization laptop or machine, please ensure to use the InPrivate window when logging into Azure and GitHub.**
+**Si estás utilizando una laptop o máquina de la organización, asegúrate de usar la ventana de InPrivate al iniciar sesión en Azure y GitHub.**
 
 1. In the desktop search,look for **Microsoft Edge** **(1)**,then click on **Microsoft Edge** **(2)** browser and open an InPrivate window.
 
