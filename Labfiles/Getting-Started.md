@@ -1,4 +1,19 @@
  
+## Login to Azure
+
+1. In the desktop search,look for **Microsoft Edge** **(1)**,then click on **Microsoft Edge** **(2)** browser and open an InPrivate window.
+
+   ![](../media/Edge.png)
+
+1. Navigate to Microsoft Azure login page using the provided URL below:
+   ```
+   https://portal.azure.com 
+   ```
+   
+1. On the **Sign in to Microsoft Azure** tab, you will see the login screen. In that screen, enter the following **Username** and **password**. Then click on **Sign in** **(3)**. 
+
+   >**Note**: To get Azure credentials navigate to the **Environment** tab and click on the **Azure Credentials** option to view the key-value pairs of the **Username**, and **Password**. You can use the copy buttons under the actions column to have the values copied instantly. Alternatively, it is suggested to have the values copied over onto a notepad for easy accessibility.
+
 ## Login to GitHub
 
 1. In the desktop search,look for **Microsoft Edge** **(1)**,then click on **Microsoft Edge** **(2)** browser and open an InPrivate window.
