@@ -10,9 +10,11 @@
    https://portal.azure.com 
    ```
    
-1. On the **Sign in to Microsoft Azure** tab, you will see the login screen. In that screen, enter the following **Username** and **password**. Then click on **Sign in** **(3)**. 
+1. On the **Sign in to Microsoft Azure** tab, you will see the login screen. In that screen, enter the **Username** and **password**. Then click on **Sign in** **(3)**. 
 
    >**Note**: To get Azure credentials navigate to the **Environment** tab and click on the **Azure Credentials** option to view the key-value pairs of the **Username**, and **Password**. You can use the copy buttons under the actions column to have the values copied instantly. Alternatively, it is suggested to have the values copied over onto a notepad for easy accessibility.
+
+
 
 ## Login to GitHub
 
