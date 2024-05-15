@@ -1,7 +1,7 @@
  
 ## Login to GitHub
 
-1. In the desktop search for **Microsoft Edge** **(1)**, click on **Microsoft Edge** **(2)** browser.
+1. In the desktop search,look for **Microsoft Edge** **(1)**,then click on **Microsoft Edge** **(2)** browser and open an InPrivate window.
 
    ![](../media/Edge.png)
 
